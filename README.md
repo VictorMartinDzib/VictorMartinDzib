@@ -6,7 +6,6 @@
 <li>💻 I’m software developer.</li>
 <li>📫 How to reach me: martindzib51@gmail.com.</li>
 <li>📚I love learning new things and exploring new technologies.</li>
-<li>👀I'm looking for a job as a Front-End Developer.</li>
 </ul>
 
 <h2>📱Technologies</h2>
